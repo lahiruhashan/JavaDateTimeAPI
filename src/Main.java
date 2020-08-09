@@ -6,7 +6,10 @@ public class Main {
 //        TryLocalTime tryLocalTime = new TryLocalTime();
 //        tryLocalTime.localTime();
 
-        TryLocalDateTime tryLocalDateTime = new TryLocalDateTime();
-        tryLocalDateTime.localDateTime();
+//        TryLocalDateTime tryLocalDateTime = new TryLocalDateTime();
+//        tryLocalDateTime.localDateTime();
+
+        TryZonedDateTime tryZonedDateTime = new TryZonedDateTime();
+        tryZonedDateTime.zonedDateTime();
     }
 }
