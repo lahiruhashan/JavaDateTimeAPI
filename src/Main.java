@@ -3,7 +3,10 @@ public class Main {
 //        TryLocalDate tryLocalDate = new TryLocalDate();
 //        tryLocalDate.localDate();
 
-        TryLocalTime tryLocalTime = new TryLocalTime();
-        tryLocalTime.localTime();
+//        TryLocalTime tryLocalTime = new TryLocalTime();
+//        tryLocalTime.localTime();
+
+        TryLocalDateTime tryLocalDateTime = new TryLocalDateTime();
+        tryLocalDateTime.localDateTime();
     }
 }
