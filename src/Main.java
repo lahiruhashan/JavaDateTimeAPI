@@ -9,7 +9,10 @@ public class Main {
 //        TryLocalDateTime tryLocalDateTime = new TryLocalDateTime();
 //        tryLocalDateTime.localDateTime();
 
-        TryZonedDateTime tryZonedDateTime = new TryZonedDateTime();
-        tryZonedDateTime.zonedDateTime();
+//        TryZonedDateTime tryZonedDateTime = new TryZonedDateTime();
+//        tryZonedDateTime.zonedDateTime();
+
+        TryPeriodAndDuration tryPeriodAndDuration = new TryPeriodAndDuration();
+        tryPeriodAndDuration.periodAndDuration();
     }
 }
